@@ -2,8 +2,7 @@
 sch: https://www.google.com/search?q=Zinc+Clad+4100
 
 ## Home:
-http://industrial.sherwin-williams.com/na/us/en/protective-marine/catalog/product/products-by-industry.11543396/zinc-clad-4100.9897006.html
-- 
+https://industrial.sherwin-williams.com/na/us/en/protective-marine/catalog/product/products-by-industry.11543396/zinc-clad-4100.9897006.html
 
 >Zinc Clad® 4100
 >A three-component, organic, polyamide epoxy, zinc-rich coating.
